@@ -106,6 +106,9 @@ gestion-tareas-fullstack/
 ---
 
 ▶️ Cómo ejecutar el proyecto
+
+---
+
 1️⃣ Instalar dependencias
 npm install
 
