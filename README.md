@@ -84,6 +84,7 @@ Dashboard que muestra el nombre del usuario autenticado
 
 ---
 
+```text
 📁 Estructura del proyecto
 gestion-tareas-fullstack/
 │── server/
@@ -101,7 +102,7 @@ gestion-tareas-fullstack/
 │
 └── README.md
     .gitignore
-
+```
 ---
 
 ▶️ Cómo ejecutar el proyecto
